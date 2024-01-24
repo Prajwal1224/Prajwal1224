@@ -1,6 +1,7 @@
-[![Prajwal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fprajwal-patil-a60858153&psig=AOvVaw2L4KWQLh9JQuUi9wCEd2h0&ust=1706210303877000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCDsO3e9oMDFQAAAAAdAAAAABAD)](https://linkedin.com/in/prajwalnewase)
+
+
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">A passionate Programmer from Maharashtra,India</h3>
+<h3 align="center">A Passionate Programmer from Maharashtra,India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal1224&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal1224" /> </p>
