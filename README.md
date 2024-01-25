@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/prajwal newase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal newase" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prajwalnewase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal newase" height="30" width="40" /></a>
 <a href="https://instagram.com/prajwalnewase_004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwalnewase_004" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/prajwalnewasevlogs6971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prajwalnewasevlogs6971" height="30" width="40" /></a>
 </p>
