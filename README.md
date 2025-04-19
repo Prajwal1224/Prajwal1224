@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prajwal_newase_comp@moderncoe.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tYgPDUg9rCO-ZzRNNNk8blLRDtGGv2LC/view?usp=drivesdk](https://drive.google.com/file/d/1tYgPDUg9rCO-ZzRNNNk8blLRDtGGv2LC/view?usp=drivesdk)
+<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1tYgPDUg9rCO-ZzRNNNk8blLRDtGGv2LC/view?usp=drivesdk](https://drive.google.com/file/d/1tYgPDUg9rCO-ZzRNNNk8blLRDtGGv2LC/view?usp=drivesdk)-->
 
 <h3 align="left">Connect with me:</h3>
 
