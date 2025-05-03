@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
-- 📝 I regularly write articles on [https://prajwalnewase004.blogspot.com/?m=1](https://prajwalnewase004.blogspot.com/?m=1)
+<!---- 📝 I regularly write articles on [https://prajwalnewase004.blogspot.com/?m=1](https://prajwalnewase004.blogspot.com/?m=1)-->
 
 - 📫 How to reach me **prajwal_newase_comp@moderncoe.edu.in**
 
