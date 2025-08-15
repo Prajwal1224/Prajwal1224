@@ -12,7 +12,7 @@
 
 <!---- 📝 I regularly write articles on [https://prajwalnewase004.blogspot.com/?m=1](https://prajwalnewase004.blogspot.com/?m=1)-->
 
-- 📫 How to reach me **prajwal_newase_comp@moderncoe.edu.in**
+- 📫 How to reach me **prajwal.newase.comp@gmail.com**
 
 <!--- 📄 Know about my experiences [https://drive.google.com/file/d/1tYgPDUg9rCO-ZzRNNNk8blLRDtGGv2LC/view?usp=drivesdk](https://drive.google.com/file/d/1tYgPDUg9rCO-ZzRNNNk8blLRDtGGv2LC/view?usp=drivesdk)-->
 
